@@ -1,8 +1,12 @@
-## Hi i'm hyodong lee\n
-studying computer engineering\n
-I currently attending yeungnam university\n
-my email: dhd6839@naver.com\n
-i love black\n
+## Hi i'm hyodong lee  
+
+studying computer engineering  
+
+I currently attending yeungnam university  
+
+my email: dhd6839@naver.com  
+
+i love black  
 
 -----THANK YOU FOR VISITING MY PROFILES------\n
 <!--
