@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi i'm hyodong lee
+studying computer engineering
+I currently attending yeungnam university
+my email: dhd6839@naver.com
+i love black
 
+-----THANK YOU FOR VISITING MY PROFILES------
 <!--
 **hyo-dong/hyo-dong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
